@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieComposeApp</string>
+    <string name="hello_user_nwhat_movies_today">Hello User, \nWhat Movies Today?</string>
+</resources>
